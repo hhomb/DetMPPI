@@ -1,13 +1,14 @@
-# MPPI-Optimality-LCSS2025
+# Deterministic-MPPI-Optimality-LCSS2025
 
 This repository contains the MATLAB implementation accompanying the paper:
 
 **Optimality and Suboptimality of MPPI Control in Stochastic and Deterministic Settings**  
 by Hannes Homburger, Florian Messerer, Moritz Diehl, and Johannes Reuter  
 
-Accepted for publication in *IEEE Control Systems Letters (L-CSS), 2025*.
+Published in *IEEE Control Systems Letters (L-CSS), 2025*.
+[https://ieeexplore.ieee.org/document/11016122]
 
-Submitted in conjunction with *IEEE Conference on Decision and Control (CDC), 2025*.
+Accepted for publication at *IEEE Conference on Decision and Control (CDC), 2025*.
 
 ## 📝 Description
 
@@ -19,19 +20,17 @@ This code reproduces the numerical results and figures presented in the paper, i
 
 The code is written in MATLAB and intended for academic and research purposes.
 
-> ⚠️ **Note**: The content of this repository is currently private and will be made publicly available upon official publication of the letter.
-
 ## 📂 Contents (to be released)
 
 - `LCSS_Example_A.m` – Main script to generate the Figure 1 and Figure 2
 - `LCSS_Example_B.m` – Main script to generate the Figure 3
-- `figures/` – Folder to store generated plots
+- `figures/` – Folder with generated plots
 - `README.md` – This file
 
 
 ## 🔒 Access & Availability
 
-This code will be released under an academic-use license and made publicly accessible after the final publication of the paper.
+This code is released under an academic-use license.
 
 If you have questions in the meantime, please contact:  
 **Hannes Homburger** – [hhomburg@htwg-konstanz.de](mailto:hhomburg@htwg-konstanz.de)
