@@ -20,7 +20,7 @@ This code reproduces the numerical results and figures presented in the paper, i
 
 The code is written in MATLAB and intended for academic and research purposes.
 
-## 📂 Contents (to be released)
+## 📂 Contents
 
 - `LCSS_Example_A.m` – Main script to generate the Figure 1 and Figure 2
 - `LCSS_Example_B.m` – Main script to generate the Figure 3
